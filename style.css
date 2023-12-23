@@ -247,6 +247,8 @@ main{
   line-height: 27px; /* 168.75% */
   letter-spacing: -0.114px;
   margin-bottom: 59px;
+  width: 327px;
+  align-self: center;
   
 }
 .mandarin{
@@ -279,6 +281,8 @@ main{
   line-height: 27px; /* 168.75% */
   letter-spacing: -0.114px;
   margin-bottom: 59px;
+  width: 327px;
+  align-self: center;
 }
 .section4{
   display: flex;
