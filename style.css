@@ -523,7 +523,7 @@ footer{
   }
   .section2-text{
     width: 50%;
-    padding-right: 23pxpx;
+    padding-right: 23px;
     padding-left: 104px;
   }
   .section2-text h3{
@@ -544,14 +544,14 @@ footer{
   .section3{
     display: flex;
     flex-direction: row;
-    
-
+    height: 600px;
   }
   .cheery-div{
     width: 50%;
     background-image: url(./img/chery-des.png);
     background-repeat: no-repeat;
-    background-size: 100% 100vh;
+    background-size: 100% 600px;
+    height: 880px;
   }
   .cheery-div h3{
     color: #24554A;
@@ -565,20 +565,21 @@ footer{
   }
   .cheery-div p{
     width: 339px;
-    margin-bottom: 120px;
+    margin-bottom: 320px;
   }
   .mandarin{
     width: 50%;
     background-image: url(./img/mandarin-desktop.png);
     background-repeat: no-repeat;
-    background-size:  100% 100vh;
-    position: relative;
+    background-size:  100% 600px;
+    height: 880px;
   }
   .mandarin p{
     width: 339px;
+    margin-bottom: 320px;
   }
   .section4{
-    margin-top: 0px;
+    margin-top: 80px;
   }
   .user{
     display: flex;
