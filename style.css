@@ -498,12 +498,12 @@ footer{
   .learn-more{
     width: 100%;
     align-self: self-start;
-    margin-left: -20px;
+    
   }
   .section1-rect{
     align-self: start;
     width: 137px;
-    margin-left: -40px;
+    margin-left: -20px;
     cursor: pointer;
   }
   .section1-rect:hover{
@@ -533,8 +533,8 @@ footer{
   }
   .section2-rect{
     align-self: start;
-    width: 127px;
-    margin-left: -30px;
+    width: 137px;
+    margin-left: -20px;
     cursor: pointer;
   }
   .section2-rect:hover{
